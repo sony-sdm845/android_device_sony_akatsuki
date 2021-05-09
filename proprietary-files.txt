@@ -1,0 +1,5 @@
+# Sony package version: 52.1.A.3.49
+
+# Hotword enrollment
+-product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk|ef0000fcbe5e34e6d4c31815e09be341895d31ee;PRESIGNED
+-product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk|f7c2cdc1e34c8bc31cacb133ace78fca8718a3b5;PRESIGNED
