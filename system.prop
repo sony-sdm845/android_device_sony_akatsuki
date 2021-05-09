@@ -1,0 +1,14 @@
+# Camera
+camera.disable_zsl_mode=1
+
+# SEMC
+ro.semc.ms_type_id=PM-1124-BV
+ro.semc.product.device=H94
+ro.semc.product.model=H9493
+ro.semc.product.name=Xperia XZ3
+ro.semc.version.fs=GENERIC
+ro.semc.version.fs_revision=52.1.A.3.92
+ro.semc.version.sw=1316-6961
+ro.semc.version.sw_revision=52.1.A.3.92
+ro.semc.version.sw_type=user
+ro.semc.version.sw_variant=GLOBAL-C2
